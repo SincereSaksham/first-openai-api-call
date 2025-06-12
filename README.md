@@ -1,6 +1,6 @@
 # 🧠 First OpenAI API Call
 
-This project demonstrates how to make a successful API call to OpenAI's GPT-3.5-Turbo model using the official OpenAI Python SDK (`openai>=1.0.0`).
+This project demonstrates how to make a successful API call to OpenAI's GPT-3.5-Turbo model using the official OpenAI Python SDK.
 
 ---
 
